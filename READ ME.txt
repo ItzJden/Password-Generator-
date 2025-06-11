@@ -1,0 +1,12 @@
+This is a simple Password Generator built with Python that creates secure, randomized passwords based on user-specified length. 
+It uses Python’s built-in random and string libraries to generate a mix of uppercase and lowercase letters, numbers, and special symbols. 
+The final password is constructed by selecting random characters and combining them into a single string.
+
+Key Features:
+
+User-defined password length
+
+Includes uppercase, lowercase, digits, and punctuation
+
+Quick and easy to run in any terminal or IDE
+
