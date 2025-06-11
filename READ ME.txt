@@ -1,12 +1,17 @@
-This is a simple Password Generator built with Python that creates secure, randomized passwords based on user-specified length. 
-It uses Python’s built-in random and string libraries to generate a mix of uppercase and lowercase letters, numbers, and special symbols. 
-The final password is constructed by selecting random characters and combining them into a single string.
+# Password Generator 🔐
 
-Key Features:
+## Description
+A simple Python password generator that creates strong, secure passwords based on user-defined length. It uses Python's built-in `random` and `string` libraries to generate a randomized mix of letters, digits, and special characters.
 
-User-defined password length
+## Features
+- User-defined password length
+- Includes uppercase, lowercase, numbers, and symbols
+- Uses Python’s `random.choice()` and `string` character sets
+- Clean command-line interface
 
-Includes uppercase, lowercase, digits, and punctuation
-
-Quick and easy to run in any terminal or IDE
-
+## How to Run
+1. Clone or download this repository
+2. Open the folder in your IDE or terminal
+3. Run the file using:
+   ```bash
+   python password_generator.py
